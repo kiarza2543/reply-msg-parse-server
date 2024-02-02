@@ -15,7 +15,7 @@
     "parse": "~1.8.0",
     "parse-dashboard": "^1.0.26",
     "parse-server": "^2.2.25",
-    "string-similarity": "^1.2.0",
+    "string-similarity": "^4.0.4",
     "throng": "^4.0.0",
     "wordcut": "^0.8.0"
   },
