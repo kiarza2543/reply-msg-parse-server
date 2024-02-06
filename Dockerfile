@@ -1,4 +1,4 @@
-FROM node:latest
+FROM node:21.6.1-bookworm-slim
 
 RUN mkdir parse
 
